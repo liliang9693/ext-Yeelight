@@ -1,0 +1,27 @@
+{
+  "name": {
+    "zh-cn": "Yeelight灯",
+    "en": "Yeelight"
+  },
+  "description": {
+    "zh-cn": "Yeelight智能物联网LED灯泡",
+    "en": "Yeelight intelligent IOT LED bulb"
+  },
+  "author": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "id": "Yeelight",
+  "version": "0.0.1",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "micropython": {
+      "dir": "micropython/",
+      "board": [
+        "esp32"
+      ],
+      "main": "main.ts"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "Yeelight.OPEN.turn on|menu":"打开",
+    "Yeelight.OPEN.turn off|menu":"关闭",
+    "Yeelight.OPEN.toggle|menu":"反转",
+    "Yeelight.INF.bright|menu":"亮度",
+
+
+    "Yeelight.devlist|block": "局域网内Yeelight设备列表" ,
+    "Yeelight.devgetinf|block": "第[DEV]个Yeelight的[INF]" ,
+    "Yeelight.devsetname|block": "设置实例 第[DEV]个Yeelight命名为[NAME]" ,
+    "Yeelight.devsetip|block": "设置实例[NAME]的ip为[IP]" ,
+    "Yeelight.devopen|block": "[OPEN][NAME]" ,
+    "Yeelight.devsetcolor|block": "[NAME]设置颜色[COLOR]" ,
+    "Yeelight.devsetcolorrgb|block": "[NAME]设置颜色R[R]G[G]B[B]" ,
+    "Yeelight.devsetcolorhsv|block": "[NAME]设置HSV色调[SD]饱和度[BHD]" ,
+    "Yeelight.devsetlight|block": "[NAME]设置亮度[LG]" ,
+    "Yeelight.devsetcolortemp|block": "[NAME]设置色温[TEMP]" 
+
+     
+}

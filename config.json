@@ -11,17 +11,24 @@
   "email": "969316753@qq.com",
   "license": "MIT",
   "id": "Yeelight",
-  "version": "0.0.1",
-  "platform": [
-    "win"
-  ],
+  "version": "0.0.2",
+  "platform": [ "win"],
   "asset": {
     "micropython": {
       "dir": "micropython/",
+      "version": "0.0.2",
       "board": [
         "esp32"
       ],
       "main": "main.ts"
+    },	
+    "python": {
+      "dir": "python/",
+      "version": "0.0.1",
+      "main": "main.ts",
+      "dependencies": {  
+        "yeelight":""
+        }
     }
   }
 }
